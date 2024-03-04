@@ -52,3 +52,11 @@ fibonacci_verify(number, fibonacci_sequence)
 
 
 # ================================
+
+
+# RESPOSTA 4:
+
+# Vide arquivo README.md
+
+
+# ================================
