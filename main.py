@@ -1,14 +1,6 @@
 # RESPOSTA 1:
 
-INDICE = 13
-SOMA = 0
-K = 0
-
-while K < INDICE:
-    K = K + 1
-    SOMA = SOMA + K
-
-print(SOMA)
+# Vide arquivo README.md
 
 
 # ================================
@@ -60,3 +52,20 @@ fibonacci_verify(number, fibonacci_sequence)
 
 
 # ================================
+
+
+# RESPOSTA 5:
+
+
+string = input("Digite uma string para inverter: ")
+
+
+def string_reverse(string):
+    return string[::-1]
+
+
+reversed_string = string_reverse(string)
+
+
+print("String original:", string)
+print("String invertida:", reversed_string)

@@ -46,4 +46,13 @@ f) 2, 10, 12, 16, 17, 18, 19, 200 (números que começam com a letra D)
 Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em uma sala diferente. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada.  Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada? 
 
 ***Resposta:*** Basta ligar o interruptor 1 e deixá-lo ligado por alguns minutos até que a lâmpada esquente. Depois, desligue o interruptor 1 e ligue o interruptor 2. Por fim, vá até a sala das lâmpadas. Neste ponto, você poderá identificar qual interruptor controla cada lâmpada da seguinte maneira, pois a lâmpada que está acesa é controlada pelo interruptor 2, porque você o deixou ligado; e a lâmpada que está apagada, mas quente ao toque, é controlada pelo interruptor 1, porque estava ligada tempo suficiente para aquecer a lâmpada, mas você a desligou antes de ir para a sala. Sendo assim, a lâmpada que está apagada e fria ao toque é controlada pelo interruptor 3, porque você nunca o ligou.
-```
+
+
+### 5) 
+Escreva um programa que inverta os caracteres de um string.    
+
+IMPORTANTE:   
+a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;   
+b) Evite usar funções prontas, como, por exemplo, reverse; 
+
+***Resposta:*** Vide arquivo `main.py`.
