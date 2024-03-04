@@ -44,3 +44,11 @@ fibonacci_verify(number, fibonacci_sequence)
 
 
 # ================================
+
+
+# RESPOSTA 3:
+
+# Vide arquivo README.md
+
+
+# ================================
